@@ -1,3 +1,7 @@
 wuhu
 qifei
+<<<<<<< HEAD
 韩金龙
+=======
+dasima
+>>>>>>> feature1
